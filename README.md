@@ -2,7 +2,7 @@
   [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/undefined/Weather-Dashboard)
   
   # Description
-  An application that gives you the 5 day weather forecast for whatever city you searh for.
+  An application that gives you the 5 day weather forecast for whatever city you search for.
  
   # Table of Contents 
  
@@ -23,7 +23,6 @@
   ​This application is used for To plan trips accordingly, making sure the weather fits your prefrences.
   # License
   
-  This project is license under the MIT license.
   # Contributing
  
   ​Contributors: 
